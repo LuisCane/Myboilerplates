@@ -2,7 +2,7 @@
 ### Here I'll keep a list of blogs I've found useful.
 
 ## Cyber Security
-### BenHeater
+### 0xBEN
 - https://benheater.com/
   - https://benheater.com/proxmox-lab-adding-vulnhub-vms/
 
