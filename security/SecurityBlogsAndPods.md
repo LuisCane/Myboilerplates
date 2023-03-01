@@ -1,36 +1,41 @@
 # Security Blogs and Pods
 
-## [0xBEN](https://benheater.com/)
+## Blogs
+### [HackTheBox Blog](https://www.hackthebox.com/blog)
+
+### [0xBEN](https://benheater.com/)
 - https://benheater.com/proxmox-lab-adding-vulnhub-vms/
 
-## [0xdf](https://0xdf.gitlab.io/)
+### [0xdf](https://0xdf.gitlab.io/)
 
-## [Darknet Diaries](https://darknetdiaries.com/)
+## Pods
 
-## [Malicious Life](https://malicious.life/)
+### [Darknet Diaries](https://darknetdiaries.com/)
 
-## [Risky.Biz](https://risky.biz/)
+### [Malicious Life](https://malicious.life/)
 
-## [Social Engineer](https://www.social-engineer.org/)
+### [Risky.Biz](https://risky.biz/)
 
-## [Smashing Security](https://www.smashingsecurity.com/)
+### [Social Engineer](https://www.social-engineer.org/)
 
-## [Shared Security](https://sharedsecurity.net/)
+### [Smashing Security](https://www.smashingsecurity.com/)
 
-## [Security Now](https://www.grc.com/securitynow.htm)
+### [Shared Security](https://sharedsecurity.net/)
 
-## [Down The Security Rabbit Hole](http://podcast.wh1t3rabbit.net/)
+### [Security Now](https://www.grc.com/securitynow.htm)
 
-## [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)
+### [Down The Security Rabbit Hole](http://podcast.wh1t3rabbit.net/)
 
-## [Beers With Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos)
+### [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)
 
-## [What The Hack](https://adamlevin.com/what-the-hack/)
+### [Beers With Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos)
 
-## Hacked
+### [What The Hack](https://adamlevin.com/what-the-hack/)
+
+### Hacked
 - [Spotify](https://open.spotify.com/show/21zZfOy7VCSIIWlJ64DElv)
 
-## [The New York Information Security Meetup (Youtube)](https://www.youtube.com/@thenewyorkinformationsecur7350)
+### [The New York Information Security Meetup (Youtube)](https://www.youtube.com/@thenewyorkinformationsecur7350)
 
 # News Sources
 ## [CISO Series](https://cisoseries.com/)
