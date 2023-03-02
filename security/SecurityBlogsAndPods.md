@@ -8,6 +8,9 @@
 
 ### [0xdf](https://0xdf.gitlab.io/)
 
+### [zweilosec](https://zweilosec.github.io/)
+- https://zweilosec.github.io/posts/upgrade-linux-shell/
+
 ## Pods
 
 ### [Darknet Diaries](https://darknetdiaries.com/)
