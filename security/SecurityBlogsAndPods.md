@@ -5,6 +5,7 @@
 
 ### [0xBEN](https://benheater.com/)
 - https://benheater.com/proxmox-lab-adding-vulnhub-vms/
+- https://benheater.com/proxmox-vulnhub-vm-network-interface-issue/
 
 ### [0xdf](https://0xdf.gitlab.io/)
 
